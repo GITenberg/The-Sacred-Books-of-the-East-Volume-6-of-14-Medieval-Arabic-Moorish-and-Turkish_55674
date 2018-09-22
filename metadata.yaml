@@ -1,0 +1,31 @@
+_repo: The-Sacred-Books-of-the-East-Volume-6-of-14-Medieval-Arabic-Moorish-and-Turkish_55674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Horne, Charles F. (Charles Francis)
+    alias: Horne, Charles Francis
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '3319'
+    url: http://www.gutenberg.org/2009/agents/3319
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
+description: ''
+gutenberg_issued: '2017-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Sacred Books of the East, Volume 6 (of 14)
+
+  Medieval Arabic, Moorish, and Turkish'
+url: http://www.gutenberg.org/ebooks/55674
