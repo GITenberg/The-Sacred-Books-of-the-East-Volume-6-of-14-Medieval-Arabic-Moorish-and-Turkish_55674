@@ -1,5 +1,8 @@
 _repo: The-Sacred-Books-of-the-East-Volume-6-of-14-Medieval-Arabic-Moorish-and-Turkish_55674
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55674-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3319
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55674#The-Sacred-Books-of-the-East-Volume-6-of-14-Medieval-Arabic-Moorish-and-Turkish
 gutenberg_issued: '2017-10-02'
 gutenberg_type: Text
 identifiers:
